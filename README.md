@@ -130,3 +130,5 @@ To clean up the resources, you need to perform two manual steps before you can d
 ### Delete CloudFormation stack
 1. Go to the CloudFormation console https://console.aws.amazon.com/cloudformation/home#/stacks and select your stack. 
 1. Click **Delete**.
+
+Thank You
